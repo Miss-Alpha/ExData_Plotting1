@@ -35,10 +35,6 @@ web site</a>:
 
 ## Loading the data
 
-
-
-
-
 When loading the dataset into R, please consider the following:
 
 * The dataset has 2,075,259 rows and 9 columns. First
@@ -65,50 +61,24 @@ varies over a 2-day period in February, 2007. Your task is to
 reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
-First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
-
-
-For each plot you should
-
-* Construct the plot and save it to a PNG file with a width of 480
-pixels and a height of 480 pixels.
-
-* Name each of the plot files as `plot1.png`, `plot2.png`, etc.
-
-* Create a separate R code file (`plot1.R`, `plot2.R`, etc.) that
-constructs the corresponding plot, i.e. code in `plot1.R` constructs
-the `plot1.png` plot. Your code file **should include code for reading
-the data** so that the plot can be fully reproduced. You should also
-include the code that creates the PNG file.
-
-* Add the PNG file and R code file to your git repository
-
-When you are finished with the assignment, push your git repository to
-GitHub so that the GitHub version of your repository is up to
-date. There should be four PNG files and four R code files.
-
-
-The four plots that you will need to construct are shown below. 
-
 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot1](https://user-images.githubusercontent.com/19502542/135723011-2808f958-4974-439d-9957-506b026372e9.png)
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot2](https://user-images.githubusercontent.com/19502542/135723018-7a16057b-f1eb-4dd5-bf25-b97d14424469.png)
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot3](https://user-images.githubusercontent.com/19502542/135723055-df83585f-a9fa-4e74-be7b-c7127038ac80.png)
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot4](https://user-images.githubusercontent.com/19502542/135723073-3621a257-6640-40bc-9a92-01640b8c4341.png)
 
